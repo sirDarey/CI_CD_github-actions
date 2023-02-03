@@ -15,6 +15,6 @@ public class Application {
 
 	@GetMapping("/")
 	public String welcome () {
-		return "Welcome to Github Actions";
+		return "Welcome to Github Actions Edited";
 	}
 }
